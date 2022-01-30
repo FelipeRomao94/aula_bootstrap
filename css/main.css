@@ -1,0 +1,63 @@
+body{
+    font: 20px Arial, sans-serif;
+    
+}
+h3{
+    padding: 50px;
+}
+
+.navbar{
+    padding-left: 20px;
+    background-color: #adadad;
+}
+
+.text{
+    text-align: justify;
+    padding: 0 350px 0 350px;
+}
+
+
+.quemsomos{
+    background-color: rgb(97, 141, 167);
+    color: white;
+}
+
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.parceiros{
+    padding-top: 30px;
+    background-color: rgb(226, 226, 226);
+}
+
+.titulo{
+    padding-bottom: 30px;
+}
+
+#servicos{
+    color: #fff;
+    background-color: #f91a40;
+}
+
+#servicos img{
+    border-radius: 15px;
+}
+
+footer{
+    padding: 15px;
+    vertical-align: center;
+}
+
+.bg-footer{
+  background-color: rgb(22, 22, 22);
+  color: #f2f2f2;
+}
+footer a {
+  text-decoration: none;
+  
+}
+#autor{
+    color: burlywood;
+}
